@@ -1,0 +1,1 @@
+SITE COM O USO DA CRIATIVIDADE, um projeto de uma loja fictícia utilizando HTML E CSS.
